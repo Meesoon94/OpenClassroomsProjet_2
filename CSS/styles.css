@@ -275,6 +275,37 @@ i:hover {
     margin-bottom: 5px;
 }
 
+/*Code Activités*/
+
+h2 {
+    padding: 30px;
+}
+
+.activite_card img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.activite_card {
+    width: 380px;
+    margin: 15px;
+    box-shadow: #F2F2F2  0px 8px 24px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-sizing: border-box;
+}
+
+.activite_card h3 {
+    padding: 19px;
+}
+
+.activites-marseille {
+    display: flex;
+    flex-direction: row;
+}
 
 
 
