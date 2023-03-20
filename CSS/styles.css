@@ -307,6 +307,19 @@ h2 {
     flex-direction: row;
 }
 
+/* code footer*/
+.container-footer ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    width: 33%;
+}
+
+.container-footer {
+    display: flex;
+    flex-direction: row;
+    background-color: #F2F2F2;
+}
 
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
